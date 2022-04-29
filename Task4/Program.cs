@@ -3,13 +3,16 @@
 // числа от 1 до N.
 
 
-Console.Write("Введите число для проверки на четность: ");
-int num = Console.Read();
-if  (num % 2 == 0)
+Console.WriteLine("Введите число: ");
+int num = int.Parse(Console.ReadLine());
+int start = 0;
+while (start <= num)
 {
-    Console.WriteLine("Четное");
-}
-else
+
+        if  (start % 2 == 0)
 {
-    Console.WriteLine("Не четное");
+        Console.Write(start+", ");
+
 }
+    start++;
+    }
