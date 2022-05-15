@@ -9,10 +9,10 @@ int start = 0;
 while (start <= num)
 {
 
-        if  (start % 2 == 0)
-{
-        Console.Write(start+", ");
+    if (start % 2 == 0)
+    {
+        Console.Write(start + ", ");
 
-}
-    start++;
     }
+    start++;
+}

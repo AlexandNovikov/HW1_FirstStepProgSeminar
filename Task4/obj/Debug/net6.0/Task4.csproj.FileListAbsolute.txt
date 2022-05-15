@@ -1,0 +1,15 @@
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\bin\Debug\net6.0\Task4.exe
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\bin\Debug\net6.0\Task4.deps.json
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\bin\Debug\net6.0\Task4.dll
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\bin\Debug\net6.0\Task4.pdb
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.dll
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\refint\Task4.dll
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.pdb
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+C:\Users\MUS\Desktop\обучение Big Data\введение в програмирование\Семинар\HW1\Task4\obj\Debug\net6.0\ref\Task4.dll
