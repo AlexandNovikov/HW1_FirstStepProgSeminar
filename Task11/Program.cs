@@ -12,7 +12,6 @@ while (i <= number)
 
     {
         NewMethod(i);
-
     }
 
     i++;
@@ -20,5 +19,5 @@ while (i <= number)
 
 static void NewMethod(int i)
 {
-    Console.WriteLine($"Число{i,10} | Куб{(int)(i * i * i),10}");
+    Console.WriteLine($"Число{i,15} | Куб{(int)(Math.Pow(i, 3)),15}");
 }
