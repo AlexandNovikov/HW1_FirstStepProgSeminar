@@ -11,9 +11,14 @@ while (i <= number)
 {
 
     {
-        Console.WriteLine($"Число{i,10} | Куб{(int)(i * i * i),10}");
+        NewMethod(i);
 
     }
 
     i++;
+}
+
+static void NewMethod(int i)
+{
+    Console.WriteLine($"Число{i,10} | Куб{(int)(i * i * i),10}");
 }
