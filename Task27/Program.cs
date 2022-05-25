@@ -11,7 +11,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 int sumDigit = SumNum(number);
 
-Console.WriteLine(sumDigit);
+Console.WriteLine("Сумма цифр в числе: " + SumNum(number));
 
 int SumNum(int number)
 {
