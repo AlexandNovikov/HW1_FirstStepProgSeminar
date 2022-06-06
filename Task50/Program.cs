@@ -58,7 +58,7 @@ void PrintArray(int[,] array)
         }
         System.Console.WriteLine();
     }
-}
+} 
 
 void PrintPosition(int[] pos, int num)
 {
