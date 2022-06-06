@@ -52,7 +52,7 @@ double[] GetArithmeticMean(int[,] array)
 void PrintArray(double[] array)
 {
     System.Console.WriteLine("========================");
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++) 
     {
         System.Console.Write($"{array[i]}  ");
     }
