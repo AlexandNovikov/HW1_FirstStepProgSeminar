@@ -20,7 +20,7 @@ double[,] GetArrayDouble(int m, int n)
         }
     }
     return array;
-}
+} 
 
 void PrintArray(double[,] arr)
 {
